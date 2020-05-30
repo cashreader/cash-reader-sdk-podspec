@@ -1,0 +1,1 @@
+# cash-reader-sdk-podspec
